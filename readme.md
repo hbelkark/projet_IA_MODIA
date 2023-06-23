@@ -61,7 +61,7 @@ EMNLP, 2019](https://www.aclweb.org/anthology/D19-1613/)
 ## Groupe
 
 ### Participants
-Dylan LEBRETON, Yousra BOUCHIKHI et Hamza BELKARKOR.
+Dylan LEBRETON, Yousra BOUCHIKHI, Hamza BELKARKOR et Lucas BOUILLON.
 
 ### Google Slides
 https://docs.google.com/presentation/d/1DNTA0XHII50NZzrBAOMafOEXvCrwgkxfiLlnKCrd_c0/edit?usp=sharing
