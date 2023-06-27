@@ -58,7 +58,7 @@ Pour le livrable:
 Bodhisattwa Prasad Majumder*, Shuyang Li*, Jianmo Ni, Julian McAuley
 EMNLP, 2019](https://www.aclweb.org/anthology/D19-1613/)
 
-##Commandes à exécuter:
+## Commandes à exécuter:
 
 * Pour le main.py:
 python main.py --weights weights.pth --testfile test_script.csv
