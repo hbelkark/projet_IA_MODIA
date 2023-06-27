@@ -61,13 +61,17 @@ EMNLP, 2019](https://www.aclweb.org/anthology/D19-1613/)
 ## Commandes à exécuter:
 
 * Pour le main.py:
+
 python main.py --weights weights.pth --testfile test_script.csv
 
 * Pour l'application Gradio:
+
 python recommender_app.py --model model_svm.pkl
 
 * Les deux commandes Docker permettent de construire l'image Docker et d'exécuter le conteneur basé sur cette image.
+
 docker build -t my_recommender_app .
+
 docker run --rm -it my_recommender_app
 
 ## Groupe
